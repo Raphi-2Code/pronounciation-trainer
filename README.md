@@ -13,12 +13,7 @@ pip install pyaudio
 
 pip install speech_recognition for the speech_recognition module
 
-
-
-
-
-
-
+_________________________
 
 It should look like this:
 

@@ -18,7 +18,7 @@ while antwort is not "Ende":
         print('Was bedeutet "' + list(d.keys())[zufall] + '"?')
         antwort=r.listen(source)
     try:
-        if r.recognize_google(antwort) == list(d.values())[zufall]:
+        if r.recognize_google(antwort,language='en-US') == list(d.values())[zufall]:
             print("Das ist richtig. ✔")
         else:
             print("Das ist leider falsch. ❌")

@@ -21,14 +21,25 @@ pip install speech_recognition for the speech_recognition module
 
 
 It should look like this:
+
 Englisch Vokabeltrainer
+
 Was bedeutet "System"?
+
 Das ist richtig. ✔
+
 Was bedeutet "Kaktus"?
+
 Das ist leider falsch. ❌
+
 Was bedeutet "Kaktus"?
+
 Das ist richtig. ✔
+
 Was bedeutet "Behinderung"?
+
 Das ist richtig. ✔
+
 Was bedeutet "unterschreiben"?
+
 Das ist leider falsch. ❌
